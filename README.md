@@ -30,3 +30,10 @@ zadanie 6
 
 
 zdjęcie kotka 
+
+zadanie 12
+
+
+![fotografia pandy](animals/panda.jpg)
+
+zdjęcie pandy
