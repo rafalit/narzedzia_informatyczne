@@ -27,6 +27,8 @@ zadanie 6
 
 ![fotografia kota](animals/cat.jpg)
 
+![fotografia kota B)](animals/kot.jpg)
+
 
 
 zdjęcie kotka 
