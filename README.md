@@ -23,7 +23,7 @@ print("Hello World!")
 |30.11.2022|Polska-Argentyna|1:1    |
 <!-- Stworzyłem Readme, ten komentarz się nie wyświetli -->
 
-zadanie 6\
+zadanie 6
 
 ![fotografia kota](animals/cat.jpg)
 
