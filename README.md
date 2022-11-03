@@ -24,5 +24,6 @@ print("Hello World!")
 <!-- Stworzyłem Readme, ten komentarz się nie wyświetli -->
 
 zadanie 6\
+
 ![fotografia kota](animals/cat.jpg)
 zdjęcie kotka 
