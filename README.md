@@ -29,11 +29,11 @@ zadanie 6
 
 zdjęcie kotka
 
-![fotografia kota B)](animals/kot.jpg)
+![fotografia psa](animals/pies.jpg)
 
 
 
-zdjęcie kota dodane przez Patryka Podgórskiego
+zdjęcie psa dodane przez Patryka Podgórskiego
 
 zadanie 12
 
