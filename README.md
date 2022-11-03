@@ -26,4 +26,7 @@ print("Hello World!")
 zadanie 6\
 
 ![fotografia kota](animals/cat.jpg)
-\zdjęcie kotka 
+
+
+
+zdjęcie kotka 
