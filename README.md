@@ -22,3 +22,7 @@ print("Hello World!")
 |26.11.2022|Polska-Arabia S |4:2    |
 |30.11.2022|Polska-Argentyna|1:1    |
 <!-- Stworzyłem Readme, ten komentarz się nie wyświetli -->
+
+zadanie 6\
+![fotografia kota](animals/cat.jpg)
+zdjęcie kotka 
