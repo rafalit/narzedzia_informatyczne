@@ -27,11 +27,13 @@ zadanie 6
 
 ![fotografia kota](animals/cat.jpg)
 
+zdjęcie kotka
+
 ![fotografia kota B)](animals/kot.jpg)
 
 
 
-zdjęcie kotka 
+zdjęcie kota dodane przez Patryka Podgórskiego
 
 zadanie 12
 
